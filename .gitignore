@@ -1,0 +1,10 @@
+# Archivos
+*.swp
+*.tmp
+*.temp
+~*.*
+# Carpetas
+temp/
+tmp/
+node_modules/
+
