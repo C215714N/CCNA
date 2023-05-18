@@ -18,3 +18,4 @@ Como en todo proceso de **comunicacion**, en redes se necesita de un *emisor*, u
 
 ## Tabla de Contenidos
 1. [Tipos y Clasificacion](./classification.md)
+1. [Arquitectura de Red](./architecture.md)
